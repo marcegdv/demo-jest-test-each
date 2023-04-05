@@ -1,0 +1,17 @@
+{
+  "name": "demo-jest-test-each",
+  "version": "1.0.0",
+  "description": "Demo Jest test.each",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "nodemon": "^2.0.21"
+  }
+}
